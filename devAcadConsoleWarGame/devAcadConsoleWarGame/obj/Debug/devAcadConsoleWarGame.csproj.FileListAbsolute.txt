@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\devAcadConsoleWarGame\devAcadConsoleWarGame\devAcadConsoleWarGame\bin\Debug\devAcadConsoleWarGame.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\devAcadConsoleWarGame\devAcadConsoleWarGame\devAcadConsoleWarGame\bin\Debug\devAcadConsoleWarGame.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\devAcadConsoleWarGame\devAcadConsoleWarGame\devAcadConsoleWarGame\bin\Debug\devAcadConsoleWarGame.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\devAcadConsoleWarGame\devAcadConsoleWarGame\devAcadConsoleWarGame\obj\Debug\devAcadConsoleWarGame.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\devAcadConsoleWarGame\devAcadConsoleWarGame\devAcadConsoleWarGame\obj\Debug\devAcadConsoleWarGame.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\devAcadConsoleWarGame\devAcadConsoleWarGame\devAcadConsoleWarGame\obj\Debug\devAcadConsoleWarGame.pdb
